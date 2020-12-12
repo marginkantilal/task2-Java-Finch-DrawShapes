@@ -1,0 +1,24 @@
+Square with lenght: 18cm
+Square with lenght: 18cm
+Square with lenght: 19cm
+Rectangle with lenght: 20 CM and Width 15 CM
+Triangle with lenght: 19cmx22xcm26cm
+Triangle with angles: 78
+Triangle with angles: 45
+Triangle with angles: 55
+Square took: 13.762 Seconds
+Square took: 13.763 Seconds
+Square took: 14.137 Seconds
+Rectangle took:  11.31 Seconds
+Triangle took:  6.751 Seconds
+Triangle average time: The average time is:  6.751 Seconds
+Square average time: The average time is: 13.762  Seconds
+Square average time: The average time is: 6.8815  Seconds
+Square average time: The average time is: 4.712333  Seconds
+Rectangle average time: The average time is:  11.31 Seconds
+Biggest shape drawn was: Square with lenght: 19cm with area: 361
+Square was chosen more times compared to other shapes: 3
+Square Shape was drawn: 3 times.
+Triangle Shape was drawn: 1 times.
+Rectangle Shape was drawn: 1 times.
+Total number of shapes drawn are:  5  shapes.
